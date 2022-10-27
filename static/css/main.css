@@ -1,0 +1,11 @@
+body {
+    background-color: slategray;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font: Shanti;
+    font-size: 1.2em;
+    margin: 20px;
+}
